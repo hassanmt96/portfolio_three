@@ -33,6 +33,9 @@ import mphasis from "./company/mphasis.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import hunza from "./hunza.png";
+import crypto from "./crypto.png";
+import melodie from "./melodie.png";
 
 export {
   logo,
@@ -66,5 +69,8 @@ export {
   onsyte,
   exxon,
   mphasis,
-  zeitview
+  zeitview,
+  hunza,
+  melodie,
+  crypto
 };

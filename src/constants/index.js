@@ -19,6 +19,9 @@ import {
   exxon,
   starbucks,
   tesla,
+  melodie,
+  hunza,
+  crypto,
  onsyte,
   carrent,
   jobit,
@@ -176,7 +179,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      " I admire his energy to make things happen whether it’s building out applications or debugging a difficult problem. ",
     name: "Kathleen Yeh",
     designation: "Software Engineer",
     company: "DroneDeploy",
@@ -184,7 +187,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Hassan’s core qualities combined with the passion he brings to solving problems is what made it possible for him to make the impossible happen.",
     name: "Sagar Shetty",
     designation: "Marketing Manager",
     company: "CampusKnot",
@@ -192,7 +195,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Hassan was continually an asset to the success of the organization's goals and efforts.",
     name: "Roy Jafari Mandari",
     designation: "Technical Product Manager",
     company: "Ingram Micro",
@@ -219,7 +222,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: crypto,
     source_code_link: "https://github.com/",
   },
   {
@@ -240,13 +243,13 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: melodie,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Gypsies Reefs",
+    name: "Hunza Heritage",
     description:
-      "A ecommerce application for corals and underwater supplies.",
+      "An e-commerce clothing platform that blends culture and design from the roots of the Indus Valley.",
     tags: [
       {
         name: "nextjs",
@@ -261,7 +264,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: hunza,
     source_code_link: "https://www.gypsiesreef.com/",
   },
 ];
