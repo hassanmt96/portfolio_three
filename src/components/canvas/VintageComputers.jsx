@@ -33,7 +33,7 @@ const VintageComputers = ({ isMobile }) => {
       rotation-z={0}
       rotation-y={ 1.4}
       >
-        <iframe src="https://morphing-visualizer.netlify.app/" />
+        <iframe src="https://sprilla.netlify.app" />
       </Html>
     </mesh>
   );
